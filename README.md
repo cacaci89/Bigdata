@@ -10,3 +10,5 @@
  * Python
  * Django
  * VScode
+
+## Follow this [link](https://github.com/cacaci89/Bigdata/blob/main/%E5%A4%A7%E6%95%B8%E6%93%9A%E5%B0%88%E9%A1%8C.pdf) for further information of the project.
